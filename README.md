@@ -99,17 +99,17 @@ To build a churn prediction model that:
 ---
 
 ## 📂 Project Structure
+
+```text
 📦 Customer_Churn_Prediction
 ├── Customer churn Pred model.ipynb
 ├── README.md
 ├── churn_data.csv
 ├── models/
-│ └── logistic_model.pkl
+│   └── logistic_model.pkl
 
-
-
+```
 ---
-
 ## 🙋‍♂️ Author
 
 **Kundan Yadav**  
@@ -117,7 +117,6 @@ Aspiring Data Analyst / ML Enthusiast
 🔗 [LinkedIn](linkedin.com/in/kundan-yadav-6057b2323)  
 📫 [Email](mailto:wekundan@gmail.com)
 
----
 
 ## ⭐ If you found this helpful, feel free to star the repo!
 
